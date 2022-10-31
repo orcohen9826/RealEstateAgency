@@ -1,0 +1,49 @@
+.root{
+	-fx-background-color: rgb(204, 221, 255)
+}
+
+.menuButton {
+  -fx-font-size:15;
+  -fx-font-weight: bold;
+  -fx-background-color:rgb(204, 204, 204);
+}
+
+.menuButton:hover {
+	-fx-font-size:15;
+	-fx-font-weight: bold;
+	-fx-text-fill: white; 
+  	-fx-background-color: rgb(115, 115, 115); 
+  	-fx-cursor: hand;
+}
+
+.menuLabel {
+  -fx-font-size:15;
+  -fx-font-weight: bold;
+}
+
+.menuLabel:hover {
+	-fx-font-size:15;
+	-fx-font-weight: bold;
+	-fx-text-fill: white; 
+}
+
+.popupLabel {
+	-fx-font-size: 15;
+  	-fx-font-weight: bold;
+	-fx-text-alignment: center;
+}
+
+.errorLabel {
+  -fx-font-size:15;
+  -fx-font-weight: bold;
+  -fx-text-fill: red; 
+}
+
+.headerLabel{
+	-fx-font-size: 50; 
+	-fx-font-style: italic;
+	-fx-text-fill: black; 
+	-fx-underline: true;
+	-fx-font-family:  Impact;
+}
+
