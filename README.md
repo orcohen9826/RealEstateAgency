@@ -1,5 +1,5 @@
 # RealEstateAgency
-  a school project in OOP using java & JavaFX
+ Academic project in OOP using java & JavaFX
 
 [instruction.pdf](https://github.com/orcohen9826/RealEstateAgency/files/9901916/instruction.pdf)
 
